@@ -1,3 +1,20 @@
 body {
+  background-color: #fceef5;
   font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  color: #e05297;
+}
+
+.my-nav {
+  width: 100%;
+  padding: 2em 0em;
+}
+
+.nav-links {
+  width: 10%;
+  padding: 2em;
+}
+
+.my-nav a:hover {
+  background-color: #e05297;
 }
